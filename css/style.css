@@ -1,6 +1,7 @@
 /*Opcional*/
 
 *{
+  
     margin: 0%;
     padding: 0%;
     border: 0%;
@@ -8,6 +9,7 @@
 
 body
 {
+    background: linear-gradient(to right, #5a1a80, #e10057);
  margin: 10% auto;
  left: 0;
  right: 0;
@@ -17,7 +19,7 @@ body
 }
 
 .section-perfilBarbie{
-    background-color: blue;
+  
     width: 100%;
     height: auto;
     display: flex;
